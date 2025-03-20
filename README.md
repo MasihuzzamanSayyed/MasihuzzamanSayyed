@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Masihuzzaman Sayyed</h1>
 <h3 align="center">Data Analyst from Mumbai, india</h3>
-<img align = 'right' alt = 'coding' width = '400' src = https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pMm9wd3J4Zm5ubHMzNnoxOG9kYXhzeDgwamN5bTlnZnNha3czdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif >
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Masihuzzaman-Sayyed](https://codebasics.io/portfolio/Masihuzzaman-Sayyed)
+<img align = 'centre' alt = 'coding' width = '400' src = https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pMm9wd3J4Zm5ubHMzNnoxOG9kYXhzeDgwamN5bTlnZnNha3czdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif >
+- 👨‍💻 All of my projects are available at (https://codebasics.io/portfolio/Masihuzzaman-Sayyed)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/masihuzzamansayyed/](https://www.linkedin.com/in/masihuzzamansayyed/)
 
 - 📫 How to reach me **masisayyedofficial@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/afnan/OneDrive/Desktop/Masis%20Docs/Resume%20-%20DA%20-%20Masi/MasiResume(DA).pdf](file:///C:/Users/afnan/OneDrive/Desktop/Masis%20Docs/Resume%20-%20DA%20-%20Masi/MasiResume(DA).pdf)
+- 📄 Know about my experiences (file:///C:/Users/afnan/OneDrive/Desktop/Masis%20Docs/Resume%20-%20DA%20-%20Masi/MasiResume(DA).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
