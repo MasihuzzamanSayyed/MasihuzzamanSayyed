@@ -12,7 +12,7 @@
 ---
 
 ### 📂 Portfolio
-🔗 Check out all my projects here: [Codebasics Portfolio](https://codebasics.io/portfolio/Masihuzzaman-Sayyed)
+🔗 Check out all my projects here: [Portfolio](https://codebasics.io/portfolio/Masihuzzaman-Sayyed)
 
 ### ✍️ Articles
 📚 I regularly write on data, analytics, and my learning journey on [LinkedIn](https://www.linkedin.com/in/masihuzzamansayyed/)
