@@ -19,8 +19,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Data+Analyst+from+Mumbai;Turning+Data+into+Decisions;Power+BI+%7C+SQL+%7C+Python+%7C+Storytelling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0A66C2&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Data+Analyst+from+Mumbai;Turning+Data+into+Decisions;Power+BI+%7C+SQL+%7C+Python+%7C+Storytelling" alt="Typing SVG" />
 </p>
+
 
 ---
 
