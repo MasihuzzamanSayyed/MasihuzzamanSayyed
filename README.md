@@ -1,53 +1,75 @@
-<h1 align="center">Hi 👋, I'm Masihuzzaman Sayyed</h1>
-<h3 align="center">Data Analyst | Turning Raw Data into Real Insights</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#0A66C2">Masihuzzaman Sayyed</span></h1>
+<h3 align="center">📊 Data Analyst | Turning Raw Data into Real Insights</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/masihuzzamansayyed/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+  <a href="mailto:masisayyedofficial@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail">
+  </a>
+  <a href="https://masihuzzamansayyed.github.io/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/View Portfolio-orange?style=flat&logo=notion">
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-I'm a data analyst based in Mumbai, India, with a passion for transforming data into meaningful stories and actionable insights. I enjoy working on real-world datasets and building projects that solve business problems using data-driven strategies.
+I'm a **Data Analyst from Mumbai, India** 🇮🇳 who loves digging through data to uncover insights that drive decision-making. Whether it’s cleaning messy datasets, visualising trends, or crafting dashboards, I thrive on telling stories with numbers.
 
-I specialize in data cleaning, visualization, and building interactive dashboards using tools like Power BI, Python (Pandas), and SQL.
-
----
-
-### 💼 Portfolio
-
-Explore my hands-on projects and case studies:
-🔗 [Portfolio](https://codebasics.io/portfolio/Masihuzzaman-Sayyed)
+🔍 **What I do**  
+- Data Cleaning & Exploration  
+- Interactive Dashboards  
+- Business Problem Solving  
+- Insightful Storytelling
 
 ---
 
-### 🛠️ Skills & Tools
+### 🚀 Portfolio Projects
 
-- **Languages**: Python, SQL, DAX  
-- **Data Analysis**: Pandas, NumPy, Excel  
-- **Data Visualization**: Power BI, Matplotlib, Seaborn  
-- **Databases**: MySQL  
-- **Design & Prototyping**: Figma  
-- **Other**: Power Query, Pivot Tables, Git, GitHub
+Here are some of the projects I’ve worked on:
+
+📌 **[Explore My Full Portfolio →](https://masihuzzamansayyed.github.io))**  
+From YouTube data analysis to sales forecasting dashboards — real-world cases, real value.
 
 ---
 
-### ✍️ Articles & Writing
+### 🛠️ Tech Stack & Tools
 
-I regularly share insights and learnings related to analytics, tools, and project workflows on LinkedIn.  
-📚 [Read my posts](https://www.linkedin.com/in/masihuzzamansayyed/)
-
----
-
-### 📬 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/masihuzzamansayyed/)
-- 📧 Email: **masisayyedofficial@gmail.com**
+💻 **Languages**: Python, SQL, DAX  
+📊 **Analysis & Modeling**: Pandas, NumPy, Excel  
+📈 **Visualisation**: Power BI, Matplotlib, Seaborn  
+🗃️ **Databases**: MySQL  
+🎨 **Design & Prototyping**: Figma  
+🔧 **Others**: Power Query, Pivot Tables, Git, GitHub
 
 ---
 
-### 📌 Currently Working On
+### ✍️ Content & Insights
 
-- Expanding my Power BI and SQL projects  
-- Publishing data storytelling case studies  
-- Preparing for the Google Data Analytics Apprenticeship
+I frequently share thoughts, mini-tutorials, and reflections on LinkedIn.  
+🔗 [Follow my writing on LinkedIn](https://www.linkedin.com/in/masihuzzamansayyed/)
 
 ---
 
+### 📬 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/masihuzzamansayyed/)  
+- 📧 **masisayyedofficial@gmail.com**
+
+---
+
+### 🧩 Currently Working On
+
+- ⚡ New Power BI dashboards  
+- 🧠 SQL Case Studies  
+- 📘 Google Data Analytics Apprenticeship Preparation  
+- 📤 Publishing more project walkthroughs
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MasihuzzamanSayyed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
