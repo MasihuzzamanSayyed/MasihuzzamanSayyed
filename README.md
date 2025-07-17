@@ -31,7 +31,7 @@ I'm a **Data Analyst from Mumbai, India** 🇮🇳 who loves digging through dat
 
 Here are some of the projects I’ve worked on:
 
-📌 **[Explore My Full Portfolio →](https://masihuzzamansayyed.github.io))**  
+📌 **[Explore My Full Portfolio →](https://masihuzzamansayyed.github.io)**  
 From YouTube data analysis to sales forecasting dashboards — real-world cases, real value.
 
 ---
